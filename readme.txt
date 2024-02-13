@@ -1,0 +1,11 @@
+Stack (react-app): 
+    ~ React (UI-lib)
+    ~ TypeScript (lang)
+    ~ mobx (state manager)
+    ~ axios (HTTP-client)
+    ~ FSD (architecture)
+    ~ yarn (package manager)
+    ~ i18n (international)
+    ~ StoryBook (UI-organization)
+    ~ react router (router manager)
+    ~ localforage (localstorage)
